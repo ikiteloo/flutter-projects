@@ -11,7 +11,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-<br />
+<br /> <br />
 
 ---
 HacktoberFest @2022 [HacktoberFest](https://hacktoberfest.com/about/)
